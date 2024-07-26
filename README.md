@@ -12,3 +12,5 @@
 
 1.HTML5<br>
 2.CSS3<br>
+
+<img src="C:\Users\NoviTech\Pictures\Screenshots\Screenshot (27).png">
