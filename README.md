@@ -4,11 +4,11 @@
 
 <h2>Features</h2>
 
-1.Clean and simple user interface
-2.Placeholder text for input fields
-3.Hover effects for interactive elements
+1.Clean and simple user interface<br>
+2.Placeholder text for input fields<br>
+3.Hover effects for interactive elements<br>
 
-Technologies 
+<h2>Technologies </h2>
 
-1.HTML5
-2.CSS3
+1.HTML5<br>
+2.CSS3<br>
